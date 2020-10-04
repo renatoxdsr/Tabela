@@ -1,7 +1,7 @@
 # Tabela
 
-<p><b>Tabela</p></b>
-<p><i>Tabela Climática</p></i>
+<p><b>Tabela Climática</p></b>
+
 <p><i>Stylizing some element via CSS</p></i>
 </br>
 <p>IFPB - Markup Language Course - Activity</p>
